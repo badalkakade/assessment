@@ -1,0 +1,28 @@
+.userdisplay{
+    margin: 2% 3%;
+    .userheader{
+        display: flex;
+        margin: 15px 0;
+    }
+    .userdiv{
+        background-color: #eefaf8;
+        padding-bottom: 20px;
+        .formsect{
+            padding: 0 1%;
+            .textbox{
+                background-color: #fff !important;
+                input{
+                    padding: 10px 16px !important;
+                }
+            }
+            .signdiv{
+                align-items: center;
+                .btnstyle{
+                    background-color: #00a589;
+                    padding: 10px 20px;
+                    color: #fff;
+                }
+            }
+        }
+    }
+}
